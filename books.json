@@ -1,0 +1,23 @@
+[
+	{
+		"Title":"Leviathan",
+		"Author":"Thomas Hobbes",
+		"Year":"1651",
+		"Page Count":"508",
+		"Rating":"3.71"
+	},
+	{
+		"Title":"Discourse on the Origin of Inequality",
+		"Authtor":"Jean-Jacques Rousseau",
+		"Year":"1755",
+		"Page Count":"92",
+		"Rating":"3.83"
+	},
+	{
+		"Title":"The Social Contract",
+		"Author":"Jean-Jacques Rousseau",
+		"Year":"1762",
+		"Page Count":"188",
+		"Rating":"3.78"
+	}
+]
