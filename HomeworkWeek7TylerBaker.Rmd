@@ -1,0 +1,36 @@
+---
+title: "Homework Week 7"
+author: "Tyler Baker"
+date: "10/10/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(httr)
+library(jsonlite)
+library(htmlTable)
+library(rvest)
+library(tidyverse)
+library(XML)
+library(methods)
+```
+
+
+
+```{r import html}
+url_html <- "https://raw.githubusercontent.com/tylerbaker01/Homework-Week-7/main/books.html"
+html <- read_html(url_html)
+books_html <- html_table(html)
+books_html <- books_html[[1]]
+```
+
+```{r import xml}
+link <- "https://raw.githubusercontent.com/tylerbaker01/Homework-Week-7/main/books.xml"
+books_xml<- as.list(read_html(link))
+```
+
+```{r import JSON}
+url_json <- "https://raw.githubusercontent.com/tylerbaker01/Homework-Week-7/main/books%20json"
+json_data <- fromJSON(url_json)
+```
