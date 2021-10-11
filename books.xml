@@ -1,30 +1,24 @@
 
 <table>
 	<books>
-		<th>title</th>
-		<th>author</th>
-		<th>year published</th>
-		<th>page count</th>
-		<th>rating</th>
+		<title>Leviathan</title>
+		<author>Thomas Hobbes</author>
+		<year>1651</year>
+		<pages>508</pages>
+		<rating>3.71</rating>
 	</books>
 	<books>
-		<td>Leviathan</td>
-		<td>Thomas Hobbes</td>
-		<td>1651</td>
-		<td>508</td>
-		<td>3.71</td>
+		<title>Discourse on the Origon of Inequality</title>
+		<author>Jean- Jacques Rousseau</author>
+		<year>1755</year>
+		<pages>92</pages>
+		<rating>3.83</rating>
 	</books>
 	<books>
-		<td>Discourse on the Origon of Inequality</td>
-		<td>Jean- Jacques Rousseau</td>
-		<td>1755</td>
-		<td>92</td>
-		<td>3.83</td>
+		<title>The Social Contract</title>
+		<author>Jean- Jacques Rousseau</author>
+		<year>1762</year>
+		<pages>188</pages>
+		<rating>3.78</rating>
 	</books>
-	<books>
-		<td>The Social Contract</td>
-		<td>Jean- Jacques Rousseau</td>
-		<td>1762</td>
-		<td>188</td>
-		<td>3.78</td>
-	</books>
+</table>
