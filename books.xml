@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <table>
-	<books>
-		<title>Leviathan</title>
-		<author>Thomas Hobbes</author>
-		<year>1651</year>
-		<pages>508</pages>
-		<rating>3.71</rating>
-	</books>
-	<books>
-		<title>Discourse on the Origon of Inequality</title>
-		<author>Jean- Jacques Rousseau</author>
-		<year>1755</year>
-		<pages>92</pages>
-		<rating>3.83</rating>
-	</books>
-	<books>
-		<title>The Social Contract</title>
-		<author>Jean- Jacques Rousseau</author>
-		<year>1762</year>
-		<pages>188</pages>
-		<rating>3.78</rating>
-	</books>
+<books>
+	<title>Leviathan</title>
+	<author>Thomas Hobbes</author>
+	<year>1651</year>
+	<pages>508</pages>
+	<rating>3.71</rating>
+</books>
+<books>
+	<title>Discourse on the Origon of Inequality</title>
+	<author>Jean- Jacques Rousseau</author>
+	<year>1755</year>
+	<pages>92</pages>
+	<rating>3.83</rating>
+</books>
+<books>
+	<title>The Social Contract</title>
+	<author>Jean- Jacques Rousseau</author>
+	<year>1762</year>
+	<pages>188</pages>
+	<rating>3.78</rating>
+</books>
 </table>
